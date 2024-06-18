@@ -14,7 +14,7 @@ Uma API para um aplicativo de agendamento.
 Para rodar o aplicativo em sua máquina, você precisará ter o [JAVA](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) e algum editor como por exemplo [VISUAL STUDIO CODE](https://code.visualstudio.com/download) instalado.
 Na sua pasta de escolha use o comando para clonar o repositório e baixar as dependências do projeto:
 ```
-git clone https://github.com/rick5678/API-Marca-AI.git
+git clone https://github.com/HenriqueFrancoA/API-Marca-AI.git
 cd API-Marca-AI
 ```
 
